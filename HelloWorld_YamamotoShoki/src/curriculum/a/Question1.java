@@ -31,7 +31,7 @@ public class Question1 {
         char letter = 'a';
 
         // String型の変数を宣言
-        String letters = "";
+        String letters = "null";
 
         // boolean型の変数を宣言
         boolean isBoolean = false;
@@ -70,25 +70,25 @@ public class Question1 {
         // Q3 値を代入した変数を用いて出力する処理
 
         // 11110を出力
-        System.out.println(11110);
+        System.out.println(byteNum + shortNum + intNum + longNum);
 
         // 20を出力
-        System.out.println(20);
+        System.out.println(byteNum + byteNum);
 
         // a ハロー true を出力
         System.out.println(letter + " " + letters + " " + isBoolean);
 
         // 11130 数字をすべて足して出力
-        System.out.println(11110 + 20);
+        System.out.println(byteNum + shortNum + intNum + longNum + floatNum + doubleNum);
 
         // 10000000000 小数点以下の数字をすべて掛けて出力
-        System.out.println(10L * 100 * 1000 * 10000);
+        System.out.println(byteNum * shortNum * intNum * longNum);
 
         // 10.5割る100をして出力
-        System.out.println(10.5 / 100);
+        System.out.println(doubleNum / shortNum);
 
         // 10引く100をして出力
-        System.out.println(10 - 100);
+        System.out.println(byteNum - shortNum);
 
         
         // Q4 nameというString型の変数を宣言し、値を代入して表示する処理
