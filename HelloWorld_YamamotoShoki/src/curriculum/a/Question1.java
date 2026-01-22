@@ -31,7 +31,7 @@ public class Question1 {
         char letter = 'a';
 
         // String型の変数を宣言
-        String letters = "null";
+        String letters = null;
 
         // boolean型の変数を宣言
         boolean isBoolean = false;
