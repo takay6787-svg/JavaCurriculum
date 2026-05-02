@@ -1,0 +1,38 @@
+=== バトル開始 ===
+aa HP:60 AT:13 SP:10
+Daemon HP:85 AT:12 SP:6
+
+先攻: aa
+
+aaの攻撃！ Daemonに13のダメージ！
+Daemonの残りHP: 72
+
+Daemonの攻撃！ aaに12のダメージ！
+aaの残りHP: 48
+
+aaの攻撃！ Daemonに13のダメージ！
+Daemonの残りHP: 59
+
+Daemonの攻撃！ aaに12のダメージ！
+aaの残りHP: 36
+
+aaの攻撃！ Daemonに13のダメージ！
+Daemonの残りHP: 46
+
+Daemonの攻撃！ aaに12のダメージ！
+aaの残りHP: 24
+
+aaの攻撃！ Daemonに13のダメージ！
+Daemonの残りHP: 33
+
+Daemonの攻撃！ aaに12のダメージ！
+aaの残りHP: 12
+
+aaの攻撃！ Daemonに13のダメージ！
+Daemonの残りHP: 20
+
+Daemonの攻撃！ aaに12のダメージ！
+aaは倒れた！
+
+=== バトル終了 ===
+Daemonの勝ち！
